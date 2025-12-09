@@ -62,30 +62,6 @@ The system is developed using the Flask framework and integrates OpenRouter’s 
 
 ---
 
-## 📂 Project Structure
-
-project_root/
-│── app.py
-│── requirements.txt
-│── static/
-│ ├── uploads/
-│ ├── css/
-│ ├── js/
-│── templates/
-│ ├── landing.html
-│ ├── login.html
-│ ├── register.html
-│ ├── dashboard.html
-│ ├── upload.html
-│ ├── upload_voice.html
-│ ├── result.html
-│ └── chatbot.html
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
